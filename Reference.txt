@@ -1,0 +1,73 @@
+﻿Brief:
+Create a mobile app for Android in Unity, using reference and short description below. 
+
+Description: 
+App simulates ball jumping at different planets, such as
+
+Earth (9.8m/s², sky color - light blue)
+Moon (1.6m/s² , sky color - gray)
+Jupiter (24.5m/s², sky color - orange)
+
+If the screen is touched, ball should lean towards touch position. Jump count should be counted, shown in menu and stored between game sessions. Planets can be changed using menu. Each planet contains platforms, that after been tapped or touched by the ball - changes color. Navigation between game states should be done by "back" key.
+
+Use:
+
+- Git for version control, a gitignore and git flow model;
+- ScriptableObject for Planet settings (gravity, sky color);
+- C# interface for clickable objects;
+
+What is important in this task:
+
+- Ability of candidate to quickly catch new things and learn on the fly;
+- Strict following to feature requirements, as it were a real-life project;
+- Attention to details;
+- Code performance and architecture;
+- Scene organization, asset names;
+- Project structure, prefabs, hierarchy;
+- Using correct asset serialization editor setting for git;
+- Code style.
+
+What is not important:
+
+- No need to match reference ball leaning 100% precise;
+- No need to match materials and colors 100% precise;
+- Extra features not listed in initial task or bonus.
+
+Коротко:
+Создайте мобильное приложение для Android в Unity, используя ссылку и краткое описание ниже.
+
+Описание:
+Приложение имитирует прыжки мяча на разных планетах, таких как
+
+Земля (9,8 м / с², цвет неба - голубой)
+Луна (1.6 м / с², цвет неба - серый)
+Юпитер (24,5 м / с², цвет неба - оранжевый)
+
+Если коснуться экрана, мяч должен наклониться в сторону касания. 
+Счетчик прыжков должен быть посчитан, показан в меню и сохранен между игровыми сессиями. 
+Планеты могут быть изменены с помощью меню. 
+Каждая планета содержит платформы, которые после касания или прикосновения мяча изменяют цвет. 
+Навигация между состояниями игры должна выполняться клавишей «назад».
+
+Использование:
+
+- Git для контроля версий, модель gitignore и git flow;
+- ScriptableObject для настроек планеты (гравитация, цвет неба);
+- интерфейс C # для интерактивных объектов;
+
+Что важно в этой задаче:
+
+- способность кандидата быстро ловить новые вещи и учиться на лету;
+- строгое соблюдение требований к характеристикам, как будто это реальный проект;
+- Внимание к деталям;
+- производительность кода и архитектуры;
+- организация сцены, имена активов;
+- структура проекта, сборные конструкции, иерархия;
+- Использование правильной настройки редактора сериализации ресурсов для git;
+- Кодовый стиль.
+
+Что не важно:
+
+- Нет необходимости совпадать с эталонным шаром, склоняющимся на 100%;
+- Нет необходимости подбирать материалы и цвета на 100% точно;
+- Дополнительные функции, не указанные в начальном задании или бонусе.
